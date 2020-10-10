@@ -8,7 +8,7 @@ RCC 2020 年度プロジェクト活動
 
 非整形データに前処理を加える練習です。
 
-[大津の天気](https://drive.google.com/file/d/1bncXn4z5ZsgP_6fW3i-HjQdc2WxtEsty/view?usp=sharing)を使って，降水の有無を予測しましょう。
+[大津市の天気](https://drive.google.com/u/0/uc?id=1bncXn4z5ZsgP_6fW3i-HjQdc2WxtEsty&export=download)を使って，降水の有無を予測しましょう。
 
 ## 実行環境
 
@@ -19,7 +19,7 @@ RCC 2020 年度プロジェクト活動
 
 ### データの準備
 
-[weather.csv](https://drive.google.com/file/d/1bncXn4z5ZsgP_6fW3i-HjQdc2WxtEsty/view?usp=sharing)をダウンロードする
+[weather.csv](https://drive.google.com/u/0/uc?id=1bncXn4z5ZsgP_6fW3i-HjQdc2WxtEsty&export=download)をダウンロードする
 
 ### インストール
 
