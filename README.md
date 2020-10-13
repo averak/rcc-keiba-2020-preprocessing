@@ -31,6 +31,12 @@ $ pip install -U pip
 $ pip install -r requirements.txt
 ```
 
+### 学習
+
+```sh
+$ ./train.py
+```
+
 ## 作成者
 
 - [Averak](https://github.com/averak)
