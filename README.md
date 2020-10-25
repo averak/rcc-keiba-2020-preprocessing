@@ -31,6 +31,11 @@ $ pip install -U pip
 $ pip install -r requirements.txt
 ```
 
+### 主成分の寄与率を計算
+```sh
+$ python pca.py
+```
+
 ### 学習
 
 ```sh
