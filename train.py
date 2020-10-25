@@ -3,8 +3,8 @@ import numpy as np
 import nnet
 import preprocessing
 
-x = preprocessing.FEATURE[:, :8]
-y = preprocessing.FEATURE[:, 8]
+x = preprocessing.X
+y = preprocessing.Y
 
 model = nnet.nnet(x.shape[1:])
 model.compile(
